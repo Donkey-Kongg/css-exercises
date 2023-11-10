@@ -1,0 +1,16 @@
+.red-back {
+    background-color: #ff7777;
+    font-family: "Verdana" "DejaVu Sans" sans-serif;
+}
+#blue-color {
+    color: #00f;
+    font-size: 36px;
+}
+.bigger-font {
+    font-size: 24px;
+}
+#green-back {
+    background-color: #00f000;
+    font-size: 24px;
+    font-weight: 700;
+}
